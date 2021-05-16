@@ -1,3 +1,5 @@
 [build]
 publish = "public"
 command = "hugo --theme=ananke --gc --minify"
+[build.environment]
+HUGO_VERSION = "0.83.0"

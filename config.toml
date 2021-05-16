@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://gantsu-box.netlify.app/"
 languageCode = "ja"
-title = "がんつ箱"
+title = "gantsu-box"
 theme = "ananke"

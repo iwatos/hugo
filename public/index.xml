@@ -1,10 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>がんつ箱</title><link>http://example.org/</link><description>Recent content on がんつ箱</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 16 May 2021 22:34:33 +0900</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugoでブログつくってみた</title><link>http://example.org/posts/hugo%E3%81%A6%E3%82%99%E3%83%95%E3%82%99%E3%83%AD%E3%82%AF%E3%82%99%E3%81%A4%E3%81%8F%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F/</link><pubDate>Sun, 16 May 2021 22:34:33 +0900</pubDate><guid>http://example.org/posts/hugo%E3%81%A6%E3%82%99%E3%83%95%E3%82%99%E3%83%AD%E3%82%AF%E3%82%99%E3%81%A4%E3%81%8F%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F/</guid><description>お試しで作ってみたのでテスト
+基本コマンド hugo new posts/pos-namet.md # 記事作成 hugo server -D # ドラフト含めて テーマ変更 git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke` した後にconfig.tomlにtheme = &amp;quot;ananke&amp;quot;設定
+Netlify公開 [build] publish = &amp;#34;public&amp;#34; command = &amp;#34;hugo --theme=ananke --gc --minify&amp;#34; 参考 https://blog.u-chan-chi.com/post/hugo/</description></item></channel></rss>
